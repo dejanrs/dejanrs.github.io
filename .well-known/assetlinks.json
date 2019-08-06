@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.goflash.consumer.debug",
+    "sha256_cert_fingerprints":
+    ["8E:17:2B:A0:0E:32:09:89:7F:2F:70:6D:86:CE:56:68:99:00:9E:A6:B3:0B:90:FA:26:D1:F0:A4:E0:69:01:93"]
+  }
+}]
